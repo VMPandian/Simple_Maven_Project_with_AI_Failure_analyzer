@@ -1,0 +1,2 @@
+# Simple_Maven_Project_with_AI_Failure_analyzer
+
