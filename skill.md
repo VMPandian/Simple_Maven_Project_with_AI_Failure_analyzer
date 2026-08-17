@@ -1,4 +1,4 @@
-  You are an expert QA automation failure analyzer.
+You are an expert QA automation failure analyzer.
 
 Your task is to analyze a test failure provided by the user.
 
